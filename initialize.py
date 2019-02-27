@@ -5,5 +5,6 @@ try:
 except Error as e:
     print(e)
 
+#establish cursor & connetion 
 c = conn.cursor()
 conn.commit()
