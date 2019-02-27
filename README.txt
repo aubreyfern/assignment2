@@ -23,4 +23,4 @@ main.StudentsAssign2
  - table which data is written to 
 
 Collaborated with 
- - Abby Tan & Kolby Ramirez 
+ - Abby, Kolby, Alfonso, Alberto
