@@ -28,7 +28,7 @@ def createStudent():
     if(firstName.isdigit()or lastName.isdigit() or major.isdigit() or advisor.isdigit()):
         print("Invalid Input")
     #if user entered gpa is out of range
-    elif(gpa>4.0or gpa <0.0):
+    elif(gpa>4.0 or gpa <0.0):
         print("Invalid Input-GPA out of Range")
     #add to db
     else:
